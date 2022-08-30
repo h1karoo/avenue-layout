@@ -1,0 +1,56 @@
+.content {
+    position: relative;
+    display: inline-block;
+    min-height: 245px ;
+    margin-bottom: 70px;
+    top: 540px;
+    font-family: 'Montserrat';
+}
+.detailsBtn {
+    background-color: white;
+    font-size: 17px;
+    min-width: 217px;
+    min-height: 60px;
+    color: #575153;
+    font-weight: 600;
+    border: 2px solid #575153;
+    transition: 300ms;
+}
+.detailsBtn:hover {
+    background-color:#a5e8e8;
+    color: white;
+    border: none;
+}
+span {
+    font-weight: 600;
+    color: #575153;
+}
+.map {
+    position: absolute;
+    left: 0;
+    margin-top: 550px;
+}
+.map-text {
+    font-family: 'Montserrat';
+    padding-left: 30px;
+    padding-top: 30px;
+    position: absolute;
+    margin-top: 550px;
+    right: 0px;
+    width: 516px;
+    height: 530px;
+    background-color: #f8f8f8;
+}
+.contacts {
+    margin-top: 30px;
+}
+.contact {
+    margin-top: 10px;
+    font-size: 12px;
+}
+.social {
+    margin-top: 45px;
+}
+.social img{
+    margin-right: 20px;
+}

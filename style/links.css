@@ -1,0 +1,20 @@
+.links {
+    position: relative;
+    top: 1300px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 14px;
+}
+.link-elem {
+    font-weight: 400;
+    color: #575153;
+    margin-top: 15px;
+    transition: 300ms;
+}
+.link-elem:hover {
+    color: #00c8c8;
+}
+.link {
+    margin-left: 0px;
+    margin-right: 22px;
+}

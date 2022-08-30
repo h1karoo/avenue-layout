@@ -1,0 +1,36 @@
+.logo {
+    font-family: 'Montserrat';
+    font-size: 25px;
+}
+.navbar {
+    margin-top: 50px;
+}
+.categories {
+    min-height: 46px;
+    display: inline-block;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 14px;
+    margin-left: 30px;
+    border: none;
+    outline: none;
+    background-color: #fff;
+    width: auto;
+    transition: 300ms;
+}
+.stores {
+    color: #a5e8e8;
+}
+.categories:hover {
+    color: #a5e8e8;
+}
+.stores:hover {
+    color: black;
+}
+input {
+    font-family: 'Montserrat';
+    border: 0.01px solid #e7e7e7;
+    right: -250px;
+    outline: none;
+    position: absolute;
+}

@@ -1,0 +1,54 @@
+header {
+    background-color: #333333;
+    max-height: 46px;
+    line-height: 43px;
+    color: #777777;
+}
+.header-back {
+    background-color: #333333;
+    position: absolute;
+    top: 0;
+    min-width: 1900px;
+    min-height: 46px;
+    z-index: -1;
+}
+select {
+    background-color: transparent;
+            color: #777777;
+            min-height: 46px;
+            padding-right:0px;
+            outline:none;
+            border: none;
+}
+.col {
+    background-color: #eee;
+    border: solid 1px #aaa;
+}
+.currency {
+    display: inline-block;
+    padding-right: 40px;
+    min-height: 50px;
+    vertical-align: middle;
+    margin-left: 100px;
+}
+.block-sign {
+    display: inline-block;
+    padding-right: 40px;
+    min-height: 46px;
+}
+.block-basket {
+    width: 100px;
+    display: inline-block;
+    min-height: 46px;
+    background-color: #00c8c8;
+    color: white;
+}
+.container {
+    min-height: 45px;
+}
+.register {
+    display: inline-block;
+    padding-right: 40px;
+    min-height: 50px;
+    vertical-align: middle;
+}

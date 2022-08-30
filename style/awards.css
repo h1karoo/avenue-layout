@@ -1,0 +1,21 @@
+.awards {
+    padding: 0;
+    position: relative;
+    min-height: 200px;
+    top: 1400px;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
+.award {
+    color: white;
+    background: black;
+    font-size: 36px;
+    font-family: 'Montserrat';
+    padding-top: 45px;
+}
+.blue-button {
+    padding-top: 80px;
+    margin-left: 0px;
+    background-color: #00c8c8;
+}
